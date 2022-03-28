@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vincentchen5
+- 👋 Hi, I’m Vincent Chen
 - 👀 I’m interested in soccer
 - 🌱 I’m currently learning Computer Science at Georgia Tech
 - 📫 How to reach me: vin2013.vc@gmail.com
